@@ -1,0 +1,10 @@
+[
+  {
+    "keys": ["ctrl+enter"],
+    "command": "shell_command",
+    "args": {
+      "command": "ls -al",
+      "region": "arg"
+    }
+  }
+]

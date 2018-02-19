@@ -1,0 +1,10 @@
+{
+    "rulers": [61],
+    "wrap_width": 61,
+    "word_wrap": false,
+    "auto_wrap" : true,
+    "auto_wrap_width": 60,
+    "trim_trailing_white_space_on_save": false,
+    "translate_tabs_to_spaces": true,
+    "ensure_newline_at_eof_on_save": false
+}

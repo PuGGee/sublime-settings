@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoWrap",
+		"Better CoffeeScript",
+		"Better Completion",
+		"GitGutter",
+		"Gitignore",
+		"Glue",
+		"JavaScriptNext - ES6 Syntax",
+		"JSX",
+		"Load file to REPL",
+		"Open Search Result",
+		"Package Control",
+		"PackageResourceViewer",
+		"ReactJS",
+		"RSpec",
+		"Ruby Slim",
+		"RubyTest",
+		"ScopeHunter",
+		"SCSS",
+		"ShellCommand",
+		"SnippetMaker",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"SyntaxManager",
+		"Theme - Phoenix"
+	]
+}
